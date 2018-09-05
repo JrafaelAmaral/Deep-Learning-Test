@@ -3,7 +3,7 @@ related to a job opportunity.
 
 TUTORIAL: step by step throughout the test
 
-TEST: Deep Learning to solve the problem (Multilayer Perceptron -  class of feedforward artificial neural network)
+TEST: Deep Learning to solve the problem (Multilayer Perceptron -  class of feedforward artificial neural network).
       An MLP consists of at least three layers of nodes.
 
 INPUT: test_100k.csv
