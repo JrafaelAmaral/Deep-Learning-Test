@@ -6,8 +6,8 @@ TUTORIAL: step by step throughout the test
 TEST: Deep Learning to solve the problem (Multilayer Perceptron -  class of feedforward artificial neural network).
       An MLP consists of at least three layers of nodes.
 
-INPUT: test_100k.csv
-       train_100k.csv
+INPUT: -test_100k.csv-
+       train_100k.csv-
        train_100k.truth.csv
        
        Link Training Data: https://www.dropbox.com/s/4tkjd8ltwa5ir5m/train_100k.zip?dl=0
